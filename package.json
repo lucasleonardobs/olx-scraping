@@ -1,0 +1,11 @@
+{
+  "name": "olx-scraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucasleonardobs/olx-scraping",
+  "author": "lucasleonardobs <llbs@cin.ufpe.br>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
